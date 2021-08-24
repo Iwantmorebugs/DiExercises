@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutDi", "WithoutDi\With
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutDiWithSmellCode", "WithoutDiAbnormal\WithoutDiWithSmellCode.csproj", "{39CE2A29-9BD0-4DC8-BF99-1031AE7584DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiWithAutofacDI", "..\WebApiWithAutofacDI\WebApiWithAutofacDI.csproj", "{7831B95B-4439-4086-B65D-82BADFF61A75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiWithAutofacDI", "WebApiWithAutofacDI\WebApiWithAutofacDI.csproj", "{E386B274-43E3-4AE3-9D05-495852445479}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{39CE2A29-9BD0-4DC8-BF99-1031AE7584DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39CE2A29-9BD0-4DC8-BF99-1031AE7584DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39CE2A29-9BD0-4DC8-BF99-1031AE7584DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7831B95B-4439-4086-B65D-82BADFF61A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7831B95B-4439-4086-B65D-82BADFF61A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7831B95B-4439-4086-B65D-82BADFF61A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7831B95B-4439-4086-B65D-82BADFF61A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E386B274-43E3-4AE3-9D05-495852445479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E386B274-43E3-4AE3-9D05-495852445479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E386B274-43E3-4AE3-9D05-495852445479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E386B274-43E3-4AE3-9D05-495852445479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
